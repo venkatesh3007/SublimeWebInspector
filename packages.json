@@ -3,13 +3,13 @@
     "packages": [
         {
             "name": "Web Inspector",
-            "details": "https://github.com/sokolovstas/SublimeWebInspector",
+            "details": "https://github.com/venkatesh3007/SublimeWebInspector",
             "releases": [{
                 "sublime_text": "<3000",
-                "details": "https://github.com/sokolovstas/SublimeWebInspector/tree/ST2"
+                "details": "https://github.com/venkatesh3007/SublimeWebInspector/tree/ST2"
             },{
             	"sublime_text": ">=3000",
-                "details": "https://github.com/sokolovstas/SublimeWebInspector/tree/ST3"
+                "details": "https://github.com/venkatesh3007/SublimeWebInspector/tree/ST3"
             }]
         }
     ]
